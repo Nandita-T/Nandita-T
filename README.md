@@ -28,8 +28,6 @@ I am a Bachelor student in Electronics & Communication Engineering, focused on e
 - Small PCB prototypes for [project name] (brief description, repo link)
 - Data-analysis notebooks for experimental validation (brief description, repo link)
 
-(Provide project names and short descriptions and I’ll add them with links and badges.)
-
 ## Connect
 - Facebook: https://www.facebook.com/nandita.tiwari.16547  
 - X (Twitter): https://x.com/Nun_die_tea  
